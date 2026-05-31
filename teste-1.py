@@ -1,1 +1,1 @@
-print 'paragrafo 1';
+programador fazendo merda
